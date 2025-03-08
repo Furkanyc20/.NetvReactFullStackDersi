@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\obj\Debug\net8.0\Ocak1.HaftaNetÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\obj\Debug\net8.0\Ocak1.HaftaNetÖdev.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\obj\Debug\net8.0\Ocak1.HaftaNetÖdev.AssemblyInfo.cs
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\obj\Debug\net8.0\Ocak1.HaftaNetÖdev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\bin\Debug\net8.0\Ocak1.HaftaNetÖdev.exe
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\bin\Debug\net8.0\Ocak1.HaftaNetÖdev.deps.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\bin\Debug\net8.0\Ocak1.HaftaNetÖdev.runtimeconfig.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\bin\Debug\net8.0\Ocak1.HaftaNetÖdev.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\bin\Debug\net8.0\Ocak1.HaftaNetÖdev.pdb
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\obj\Debug\net8.0\Ocak1.HaftaNetÖdev.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\obj\Debug\net8.0\refint\Ocak1.HaftaNetÖdev.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\obj\Debug\net8.0\Ocak1.HaftaNetÖdev.pdb
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\obj\Debug\net8.0\Ocak1.HaftaNetÖdev.genruntimeconfig.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ocak1.HaftaNetÖdev\Ocak1.HaftaNetÖdev\obj\Debug\net8.0\ref\Ocak1.HaftaNetÖdev.dll
