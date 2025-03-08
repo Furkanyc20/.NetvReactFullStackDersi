@@ -1,6 +1,6 @@
 ﻿//1- For döngüsü ile sayının rakamlarının toplamını bulan algoritmayı yazınız.
 
-/*
+
 Console.Write("Bir sayı giriniz: ");
 int sayi = Convert.ToInt32(Console.ReadLine());
 int toplam = 0;
@@ -11,7 +11,7 @@ for (int temp = Math.Abs(sayi); temp > 0; temp /= 10)
 }
 
 Console.WriteLine($"Girilen sayının rakamları toplamı: {toplam}");
-*/
+
 
 //2-while döngüsü ile kullanıcıdan belirli şartlara uyan bir değer alan algoritmayı yazınız(Kullanıcıdan 10 ile 100 arasında bir sayı al ve eğer bu aralık dışında girerse tekrar iste.)
 

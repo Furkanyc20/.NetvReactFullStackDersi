@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\bin\Debug\net8.0\Ödev 3.exe
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\bin\Debug\net8.0\Ödev 3.deps.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\bin\Debug\net8.0\Ödev 3.runtimeconfig.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\bin\Debug\net8.0\Ödev 3.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\bin\Debug\net8.0\Ödev 3.pdb
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\obj\Debug\net8.0\Ödev 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\obj\Debug\net8.0\Ödev 3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\obj\Debug\net8.0\Ödev 3.AssemblyInfo.cs
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\obj\Debug\net8.0\Ödev 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\obj\Debug\net8.0\Ödev 3.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\obj\Debug\net8.0\refint\Ödev 3.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\obj\Debug\net8.0\Ödev 3.pdb
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\obj\Debug\net8.0\Ödev 3.genruntimeconfig.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Ödev 3\Ödev 3\obj\Debug\net8.0\ref\Ödev 3.dll
