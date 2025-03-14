@@ -2,13 +2,10 @@
 //2.Soru
 
 /*
-int x = 5;
-double y = 5.2;
-string name = "Mehmet";
-if (x < y)
-    Console.WriteLine(name + " verilen sayıilari dogru karşilastirdi");
-else
-    Console.WriteLine(name + " basarisiz oldu");
+Int veri tipi 4 byte yer kaplar.
+Double veri tipi 8 byte yer kaplar.Int veri tipine göre daha fazla yer kaplar.
+String veri tipi dinamik boyutludur.Her karakter 2 byte yer kaplar.Karakter sayısı *2 kadar bellekte yer tutulur.
+Verilen örneğe göre en fazla String veri tipi sonra double veri tipi en son int veri tipi yer kaplar.
 */
 
 //3.Soru

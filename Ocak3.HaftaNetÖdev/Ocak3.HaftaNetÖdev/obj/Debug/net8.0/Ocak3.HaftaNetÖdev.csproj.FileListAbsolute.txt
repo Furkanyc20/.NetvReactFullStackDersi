@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\bin\Debug\net8.0\Ocak3.HaftaNetÖdev.exe
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\bin\Debug\net8.0\Ocak3.HaftaNetÖdev.deps.json
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\bin\Debug\net8.0\Ocak3.HaftaNetÖdev.runtimeconfig.json
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\bin\Debug\net8.0\Ocak3.HaftaNetÖdev.dll
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\bin\Debug\net8.0\Ocak3.HaftaNetÖdev.pdb
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\Ocak3.HaftaNetÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\Ocak3.HaftaNetÖdev.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\Ocak3.HaftaNetÖdev.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\Ocak3.HaftaNetÖdev.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\Ocak3.HaftaNetÖdev.sourcelink.json
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\Ocak3.HaftaNetÖdev.dll
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\refint\Ocak3.HaftaNetÖdev.dll
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\Ocak3.HaftaNetÖdev.pdb
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\Ocak3.HaftaNetÖdev.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak3.HaftaNetÖdev\Ocak3.HaftaNetÖdev\obj\Debug\net8.0\ref\Ocak3.HaftaNetÖdev.dll
