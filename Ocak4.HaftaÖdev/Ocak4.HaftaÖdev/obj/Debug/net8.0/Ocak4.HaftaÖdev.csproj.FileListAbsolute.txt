@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\bin\Debug\net8.0\Ocak4.HaftaÖdev.exe
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\bin\Debug\net8.0\Ocak4.HaftaÖdev.deps.json
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\bin\Debug\net8.0\Ocak4.HaftaÖdev.runtimeconfig.json
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\bin\Debug\net8.0\Ocak4.HaftaÖdev.dll
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\bin\Debug\net8.0\Ocak4.HaftaÖdev.pdb
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\Ocak4.HaftaÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\Ocak4.HaftaÖdev.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\Ocak4.HaftaÖdev.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\Ocak4.HaftaÖdev.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\Ocak4.HaftaÖdev.sourcelink.json
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\Ocak4.HaftaÖdev.dll
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\refint\Ocak4.HaftaÖdev.dll
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\Ocak4.HaftaÖdev.pdb
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\Ocak4.HaftaÖdev.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Ocak4.HaftaÖdev\Ocak4.HaftaÖdev\obj\Debug\net8.0\ref\Ocak4.HaftaÖdev.dll
