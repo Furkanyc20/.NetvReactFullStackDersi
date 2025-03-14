@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\Subat1.HatfaÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\Subat1.HatfaÖdev.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\Subat1.HatfaÖdev.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\Subat1.HatfaÖdev.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\Subat1.HatfaÖdev.sourcelink.json
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\bin\Debug\net8.0\Subat1.HatfaÖdev.exe
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\bin\Debug\net8.0\Subat1.HatfaÖdev.deps.json
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\bin\Debug\net8.0\Subat1.HatfaÖdev.runtimeconfig.json
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\bin\Debug\net8.0\Subat1.HatfaÖdev.dll
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\bin\Debug\net8.0\Subat1.HatfaÖdev.pdb
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\Subat1.HatfaÖdev.dll
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\refint\Subat1.HatfaÖdev.dll
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\Subat1.HatfaÖdev.pdb
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\Subat1.HatfaÖdev.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\.NetvReactFullStackDersi\Subat1.HatfaÖdev\Subat1.HatfaÖdev\obj\Debug\net8.0\ref\Subat1.HatfaÖdev.dll

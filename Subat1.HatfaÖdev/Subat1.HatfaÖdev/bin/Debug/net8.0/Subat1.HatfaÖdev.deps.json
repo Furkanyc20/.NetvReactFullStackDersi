@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Subat1.HatfaÖdev/1.0.0": {
+        "runtime": {
+          "Subat1.HatfaÖdev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Subat1.HatfaÖdev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
