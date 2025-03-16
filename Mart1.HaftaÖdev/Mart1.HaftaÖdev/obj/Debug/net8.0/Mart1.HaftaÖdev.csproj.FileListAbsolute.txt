@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\bin\Debug\net8.0\Mart1.HaftaÖdev.exe
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\bin\Debug\net8.0\Mart1.HaftaÖdev.deps.json
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\bin\Debug\net8.0\Mart1.HaftaÖdev.runtimeconfig.json
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\bin\Debug\net8.0\Mart1.HaftaÖdev.dll
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\bin\Debug\net8.0\Mart1.HaftaÖdev.pdb
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\obj\Debug\net8.0\Mart1.HaftaÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\obj\Debug\net8.0\Mart1.HaftaÖdev.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\obj\Debug\net8.0\Mart1.HaftaÖdev.AssemblyInfo.cs
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\obj\Debug\net8.0\Mart1.HaftaÖdev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\obj\Debug\net8.0\Mart1.HaftaÖdev.dll
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\obj\Debug\net8.0\refint\Mart1.HaftaÖdev.dll
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\obj\Debug\net8.0\Mart1.HaftaÖdev.pdb
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\obj\Debug\net8.0\Mart1.HaftaÖdev.genruntimeconfig.cache
+C:\Users\User\Desktop\Mart1.HaftaÖdev\Mart1.HaftaÖdev\obj\Debug\net8.0\ref\Mart1.HaftaÖdev.dll
