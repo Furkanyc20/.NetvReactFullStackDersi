@@ -1,0 +1,37 @@
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Net React Ödev Nisan - 2.staticwebassets.endpoints.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Net React Ödev Nisan - 2.exe
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Net React Ödev Nisan - 2.deps.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Net React Ödev Nisan - 2.runtimeconfig.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Net React Ödev Nisan - 2.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Net React Ödev Nisan - 2.pdb
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.AssemblyInfo.cs
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\scopedcss\bundle\Net React Ödev Nisan - 2.styles.css
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net Reac.3D1EC61C.Up2Date
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\refint\Net React Ödev Nisan - 2.dll
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.pdb
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\Net React Ödev Nisan - 2.genruntimeconfig.cache
+C:\Users\User\Desktop\Programlama Dersleri\.Net&React Full Stack Geliştirme Dersleri\Net React Ödev Nisan - 2\Net React Ödev Nisan - 2\obj\Debug\net8.0\ref\Net React Ödev Nisan - 2.dll
