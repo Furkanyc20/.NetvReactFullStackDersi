@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{893F869A-24F2-475E-90E2-75351D67F031}|Nisan-4 \u00D6dev\\WebAPI.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\nisan-4 \u00F6dev\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893F869A-24F2-475E-90E2-75351D67F031}|Nisan-4 \u00D6dev\\WebAPI.csproj|solutionrelative:nisan-4 \u00F6dev\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\repositories\\bootcampproject.dataaccess\\blacklistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bootcampproject.dataaccess\\blacklistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\repositories\\bootcampproject.dataaccess\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bootcampproject.dataaccess\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\repositories\\bootcampproject.dataaccess\\bootcampconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bootcampproject.dataaccess\\bootcampconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\repositories\\bootcampproject.dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bootcampproject.dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893F869A-24F2-475E-90E2-75351D67F031}|Nisan-4 \u00D6dev\\WebAPI.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\nisan-4 \u00F6dev\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{893F869A-24F2-475E-90E2-75351D67F031}|Nisan-4 \u00D6dev\\WebAPI.csproj|solutionrelative:nisan-4 \u00F6dev\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F426758F-9212-4D82-B81F-4C74C337A645}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF417A-868F-44F2-B361-557E9437E8B4}|Entities\\Entities.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\entities\\bootcamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF417A-868F-44F2-B361-557E9437E8B4}|Entities\\Entities.csproj|solutionrelative:entities\\bootcamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF417A-868F-44F2-B361-557E9437E8B4}|Entities\\Entities.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF417A-868F-44F2-B361-557E9437E8B4}|Entities\\Entities.csproj|solutionrelative:entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF417A-868F-44F2-B361-557E9437E8B4}|Entities\\Entities.csproj|c:\\users\\user\\documents\\github\\.netvreactfullstackdersi\\nisan-4 \u00F6dev\\entities\\blacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF417A-868F-44F2-B361-557E9437E8B4}|Entities\\Entities.csproj|solutionrelative:entities\\blacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Nisan-4 \u00D6dev\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "Nisan-4 \u00D6dev\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Nisan-4 \u00D6dev\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "Nisan-4 \u00D6dev\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:32:08.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Nisan-4 \u00D6dev\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "Nisan-4 \u00D6dev\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Nisan-4 \u00D6dev\\WebAPI.csproj",
+              "RelativeToolTip": "Nisan-4 \u00D6dev\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T08:36:35.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlacklistConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\BootcampProject.DataAccess\\BlacklistConfiguration.cs",
+              "RelativeDocumentMoniker": "Repositories\\BootcampProject.DataAccess\\BlacklistConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\BootcampProject.DataAccess\\BlacklistConfiguration.cs",
+              "RelativeToolTip": "Repositories\\BootcampProject.DataAccess\\BlacklistConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:46:25.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BootcampConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\BootcampProject.DataAccess\\BootcampConfiguration.cs",
+              "RelativeDocumentMoniker": "Repositories\\BootcampProject.DataAccess\\BootcampConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\BootcampProject.DataAccess\\BootcampConfiguration.cs",
+              "RelativeToolTip": "Repositories\\BootcampProject.DataAccess\\BootcampConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:45:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\BootcampProject.DataAccess\\ApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "Repositories\\BootcampProject.DataAccess\\ApplicationConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\BootcampProject.DataAccess\\ApplicationConfiguration.cs",
+              "RelativeToolTip": "Repositories\\BootcampProject.DataAccess\\ApplicationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:44:28.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\BootcampProject.DataAccess\\DbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\BootcampProject.DataAccess\\DbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\BootcampProject.DataAccess\\DbContext.cs",
+              "RelativeToolTip": "Repositories\\BootcampProject.DataAccess\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:40:02.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T07:55:11.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Blacklist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Entities\\Blacklist.cs",
+              "RelativeDocumentMoniker": "Entities\\Blacklist.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Entities\\Blacklist.cs",
+              "RelativeToolTip": "Entities\\Blacklist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:34:10.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "Entities\\Application.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Entities\\Application.cs",
+              "RelativeToolTip": "Entities\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:28:56.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bootcamp.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Entities\\Bootcamp.cs",
+              "RelativeDocumentMoniker": "Entities\\Bootcamp.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\.NetvReactFullStackDersi\\Nisan-4 \u00D6dev\\Entities\\Bootcamp.cs",
+              "RelativeToolTip": "Entities\\Bootcamp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:22:54.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
